@@ -1,0 +1,2 @@
+all:
+	gcc -o FileReader FileReader.c Libary.c
